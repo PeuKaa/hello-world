@@ -1,0 +1,3 @@
+Liirum Laarum a=object(eval(x -> $0)).text 
+
+Hämärsin
